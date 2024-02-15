@@ -2,4 +2,4 @@
 
 Este proyecto es experimental para manejar GIT HUB
 
-## Estos cambios son nuevos
+## Estos cambios son desde mi repositorio remoto
