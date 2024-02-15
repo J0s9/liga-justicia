@@ -1,7 +1,8 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
-
+Este proyecto es experimental 
 
 ## Notas
-Pueden hacer lo que quieran...
+- Lista de super heroes
+- Lista de misiones
+- Lista de villanos
