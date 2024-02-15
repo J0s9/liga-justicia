@@ -1,6 +1,6 @@
 # Objetivos de la repositorio
 
-Este proyecto es experimental 
+Este proyecto es experimental para manejar GIT HUB
 
 ## Notas
 - Lista de super heroes
